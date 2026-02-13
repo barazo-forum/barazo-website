@@ -1,14 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atgora-forum/.github/main/assets/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atgora-forum/.github/main/assets/logo-light.svg">
-  <img alt="ATgora Logo" src="https://raw.githubusercontent.com/atgora-forum/.github/main/assets/logo-dark.svg" width="120">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barazo-forum/.github/main/assets/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barazo-forum/.github/main/assets/logo-light.svg">
+  <img alt="Barazo Logo" src="https://raw.githubusercontent.com/barazo-forum/.github/main/assets/logo-dark.svg" width="120">
 </picture>
 
-# atgora-website
+# barazo-website
 
-**Marketing + documentation site for ATgora**
+**Marketing + documentation site for Barazo**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org/)
@@ -19,7 +19,7 @@
 
 ## 🚧 Status: Planned (Q2 2026)
 
-The marketing and documentation website at atgora.forum.
+The marketing and documentation website at barazo.forum.
 
 **Current phase:** Repository will be created in Phase 1
 
@@ -27,11 +27,11 @@ The marketing and documentation website at atgora.forum.
 
 ## What is this?
 
-The atgora-website hosts:
+The barazo-website hosts:
 
 **Marketing pages (`/`):**
 - Homepage - Hero, key benefits, CTAs
-- Features - What ATgora does
+- Features - What Barazo does
 - Pricing - Managed hosting tiers
 - Comparisons - vs Discourse, Flarum, Circle, etc.
 - Blog - Technical posts, community stories
@@ -44,7 +44,7 @@ The atgora-website hosts:
 - Concepts (portable identity, cross-forum reputation)
 - API integration guides
 
-**Note:** API reference docs are served separately by atgora-api at `/docs` (auto-generated from code).
+**Note:** API reference docs are served separately by barazo-api at `/docs` (auto-generated from code).
 
 ---
 
@@ -74,7 +74,7 @@ The atgora-website hosts:
 /blog/[slug]         Blog posts (MDX)
 /docs                Documentation home
 /docs/[...slug]      Documentation pages (MDX)
-/about               About ATgora
+/about               About Barazo
 ```
 
 ---
@@ -87,8 +87,8 @@ The atgora-website hosts:
 
 **Setup:**
 ```bash
-git clone https://github.com/atgora-forum/atgora-website.git
-cd atgora-website
+git clone https://github.com/barazo-forum/barazo-website.git
+cd barazo-website
 pnpm install
 ```
 
@@ -133,7 +133,7 @@ Both support:
 
 ## Deployment
 
-**Production:** Deployed to atgora.forum
+**Production:** Deployed to barazo.forum
 
 **Method:**
 - Vercel (recommended) - auto-deploy on push to `main`
@@ -149,17 +149,17 @@ Both support:
 
 ## Related Repositories
 
-- **[atgora-api](https://github.com/atgora-forum/atgora-api)** - API reference docs (served at /docs)
-- **[Organization](https://github.com/atgora-forum)** - All repos
+- **[barazo-api](https://github.com/barazo-forum/barazo-api)** - API reference docs (served at /docs)
+- **[Organization](https://github.com/barazo-forum)** - All repos
 
 ---
 
 ## Community
 
-- 🌐 **Website:** [atgora.forum](https://atgora.forum)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/orgs/atgora-forum/discussions)
-- 🐛 **Issues:** [Report bugs](https://github.com/atgora-forum/atgora-website/issues)
+- 🌐 **Website:** [barazo.forum](https://barazo.forum)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/orgs/barazo-forum/discussions)
+- 🐛 **Issues:** [Report bugs](https://github.com/barazo-forum/barazo-website/issues)
 
 ---
 
-© 2026 ATgora. Licensed under MIT.
+© 2026 Barazo. Licensed under MIT.
