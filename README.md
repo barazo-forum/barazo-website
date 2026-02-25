@@ -84,7 +84,7 @@ The public-facing site for the Barazo project. Will host marketing pages, pricin
 
 ## License
 
-**MIT** -- Marketing and documentation should be freely reusable.
+**Proprietary** -- All rights reserved.
 
 See [LICENSE](LICENSE) for full terms.
 
