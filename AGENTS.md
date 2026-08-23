@@ -9,7 +9,7 @@ Marketing site for Barazo at barazo.forum. Built with Astro. Documentation lives
 
 ## What This Repo Does
 
-- Public-facing marketing pages (homepage, features, pricing, comparison pages)
+- Public-facing marketing pages (homepage, features, comparison pages)
 - Blog
 - SEO landing pages and conversion funnels
 - Redirects /docs/* to docs.barazo.forum

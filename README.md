@@ -19,7 +19,7 @@
 
 ## Overview
 
-The public-facing site for the Barazo project. Will host marketing pages, pricing, comparisons, blog, and user/admin documentation. API reference documentation is served separately by [barazo-api](https://github.com/singi-labs/barazo-api) at its `/docs` endpoint (auto-generated from code).
+The public-facing site for the Barazo project. Will host marketing pages, comparisons, blog, and user/admin documentation. API reference documentation is served separately by [barazo-api](https://github.com/singi-labs/barazo-api) at its `/docs` endpoint (auto-generated from code).
 
 **Status:** This repository is scaffolded but not yet implemented. It contains repository configuration files (`.gitignore`, PR template, security policy, CLA workflow) but no application code. Implementation is planned for a later phase.
 
@@ -31,7 +31,6 @@ The public-facing site for the Barazo project. Will host marketing pages, pricin
 
 - Homepage with key benefits and calls to action
 - Feature overview
-- Managed hosting pricing tiers
 - Comparison pages (vs Discourse, Flarum, Circle, etc.)
 - Blog (technical posts, community stories)
 - About page
